@@ -1,4 +1,5 @@
-﻿using PartialClass;
+﻿using _22PartialClass;
+
 
 Console.WriteLine("## Partial Class ##\n");
 
